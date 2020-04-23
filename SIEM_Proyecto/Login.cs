@@ -18,7 +18,8 @@ namespace SIEM_Proyecto
         {
             InitializeComponent();
         }
-
+        
+        //Abre Home y cierra Login
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
